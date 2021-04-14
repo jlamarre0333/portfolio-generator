@@ -1,5 +1,5 @@
 # portfolio-generator
-Made only using Node.js and Javascript.
+Made only using Node.js Javascript and CSS.
 
  It is used to generate a portfolio for you with stylized links to your github projects. 
 
